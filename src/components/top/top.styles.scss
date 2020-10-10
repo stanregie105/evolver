@@ -1,0 +1,13 @@
+.topper{
+       background-image: linear-gradient(rgba(0,0,0,1),rgba(0,0,0,1));
+      
+       }
+ .topper-root{
+            float: left;
+            list-style:none;
+            .topper-child{
+                display: inline-block;
+                margin-right: 10px;
+                color:white;
+            }
+ }

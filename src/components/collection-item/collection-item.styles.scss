@@ -1,0 +1,134 @@
+.collection-item {
+        background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(img1/download1.jpg);
+        height:400px;
+      .little-frame{
+        background-image: linear-gradient(white,white);
+        margin-top:100px;
+        margin-left: 150px;
+        margin-bottom: 80px;
+        .explorex{
+          margin-top:10px;
+        }
+          .explore{
+            margin-top:10px;
+          strong{
+          color:#ff522c;
+          margin-left: 5px;
+          margin-right: 5px;
+        }
+      }
+      }
+}
+
+.button {
+  background-color: black;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  
+  cursor: pointer;
+}
+.button i{
+  margin-left: 10px;
+}
+
+.space{
+  margin-top: 10px;
+  strong{
+     margin-right: 5px;
+  }
+   
+    .rex p{
+      margin-left: 0px;
+      a:link{
+          color:#ff522c;
+          border-bottom: 1px solid #ff522c;
+      }
+      a:hover{
+         border-bottom: none;
+
+      }
+    }
+    .apartment{
+  display: flex;
+  justify-content: space-between;
+}
+
+}
+
+ .popular{
+      a:link{
+          color:#ff522c;
+          border-bottom: 1px solid #ff522c;
+      }
+      a:hover{
+         border-bottom: none;
+
+      }
+    }
+
+  .lights{
+    justify-content: space-between;
+    display: flex;
+  }
+  .lamp {
+   
+   background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(img1/download5.jpg);
+ 
+  .buttonl {
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 300px;
+  margin-right:100px;
+  cursor: pointer;
+}
+  
+  }
+
+ 
+ 
+
+  .chandelier{
+   height: 400px;
+   background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(img1/download6.jpg);
+
+  .buttonc {
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 300px;
+  margin-right:100px;
+  
+  cursor: pointer;
+}
+  }   
+
+.direct{
+  display: flex;
+  justify-content: space-between;
+  li{
+    list-style:none;
+    
+  }
+}
+
+
