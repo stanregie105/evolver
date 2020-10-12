@@ -13,6 +13,40 @@
   }
 }
 
+/* Smal phones to small tablets: from 481px to 767px */
+@media only screen and (max-width: 767px) {
+
+   .main-nav {
+       display: none;
+   }
+   
+   .mobile-nav-icon {display: inline-block; }
+   .main-nav{
+       float: left;
+       margin-top: 5px;
+       margin-left: 5px;
+   }
+   .main-nav li{
+       display: block;
+   }
+
+   .main-nav li a:link,
+   .main-nav li a:visited{
+       display:block;
+       border:none;
+       padding: 10px 0;
+       font-size: 100%;
+   }
+   
+
+}
+
+.footer {
+    background-color: #121518;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;

@@ -58,7 +58,13 @@
     .apartment{
   display: flex;
   justify-content: space-between;
+  
 }
+
+  .rover{
+  border-radius:25px;
+  }
+
 
 }
 
@@ -127,8 +133,123 @@
   justify-content: space-between;
   li{
     list-style:none;
-    
+
   }
 }
 
+.product{
+      background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1))
+}
 
+.prod1 li {
+  list-style: none;
+  display: block;
+  
+}
+
+.white{
+        background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.0))
+
+}
+.product2{
+        background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.0))
+
+}
+
+.productl{
+        background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.0))
+     
+}
+ .topper-roots{
+            list-style:none;
+            .topper-childs{
+                display: inline-block;
+                margin-right:155px;
+                color:black;
+                margin-top:25px;
+                
+            }
+ }
+ .offers p{
+   margin-right:150px;
+      margin-bottom:55px;
+
+ }
+
+ .Emailer{
+   font-weight: .1px;
+   font-size:8px;
+   margin-right: 350px;
+ }
+ .hor{
+   width: 250px;
+   margin-left:50px;
+ }
+ .buttono{
+    background-color: black;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-right: 300px;
+  
+  cursor: pointer;;
+ }
+.productr{
+        background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.0)),url(img1/download1.jpg);
+        height:400px;
+}
+
+.spaceout{
+     background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.0));
+     height: 30px;
+}
+
+.access {
+  float: right;
+  li{
+    color:white;
+  }
+  
+}
+
+.water{
+  color:white;
+ 
+}
+
+.quick{
+  color:white;
+  .utils li{
+    color:white;
+  }
+  .utils li:first-child{
+    color:#b36648;
+  }
+}
+
+.socials{
+  color:white;
+  .soc a{
+     color:white;
+  }
+}
+
+.mob i{
+  color:#b36648;
+}
+.accessimg{
+  float:right;
+}
+.accessimg img{
+  
+  width: 20%;
+   height: auto;
+   margin-top:5px;
+   margin-right: 5px;
+   display:inline-block;
+}
